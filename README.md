@@ -43,8 +43,8 @@ Siga estes passos para configurar e rodar o projeto localmente.
 Abra seu terminal e clone o projeto para sua máquina local.
 
 ```bash
-git clone https://SUA_URL_DE_REPOSITORIO_AQUI
-cd nome-do-repositorio
+git clone https://github.com/adalbertobrant/socialprofiler
+cd socialprofiler
 ```
 
 ##  Crie e Ative um Ambiente Virtual
